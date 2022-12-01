@@ -1,0 +1,1216 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://playemulator.online/xmlrpc.php">
+<script type="text/javascript">
+!function(){var e={};e.g=function(){if("object"==typeof globalThis)return globalThis;try{return this||new Function("return this")()}catch(e){if("object"==typeof window)return window}}(),function(n){let{ampUrl:t,isCustomizePreview:r,isAmpDevMode:o,noampQueryVarName:s,noampQueryVarValue:i,disabledStorageKey:a,mobileUserAgents:c,regexRegex:u}=n;if("undefined"==typeof sessionStorage)return;const d=new RegExp(u);if(!c.some((e=>{const n=e.match(d);return!(!n||!new RegExp(n[1],n[2]).test(navigator.userAgent))||navigator.userAgent.includes(e)})))return;e.g.addEventListener("DOMContentLoaded",(()=>{const e=document.getElementById("amp-mobile-version-switcher");if(!e)return;e.hidden=!1;const n=e.querySelector("a[href]");n&&n.addEventListener("click",(()=>{sessionStorage.removeItem(a)}))}));const g=o&&["paired-browsing-non-amp","paired-browsing-amp"].includes(window.name);if(sessionStorage.getItem(a)||r||g)return;const m=new URL(location.href),h=new URL(t);h.hash=m.hash,m.searchParams.has(s)&&i===m.searchParams.get(s)?sessionStorage.setItem(a,"1"):h.href!==m.href&&(window.stop(),location.replace(h.href))}({"ampUrl":"https:\/\/playemulator.online\/gba-games\/pokemon-emerald-version\/?amp=1","noampQueryVarName":"noamp","noampQueryVarValue":"mobile","disabledStorageKey":"amp_mobile_redirect_disabled","mobileUserAgents":["Mobile","Android","Silk\/","Kindle","BlackBerry","Opera Mini","Opera Mobi"],"regexRegex":"^\\/((?:.|\n)+)\\/([i]*)$","isCustomizePreview":false,"isAmpDevMode":false})}();
+</script>
+<title>📗 Play Pokemon Emerald Online | PlayEmulator Online</title>
+
+		<!-- All in One SEO 4.2.6.1 - aioseo.com -->
+		<meta name="description" content="Play Pokemon Emerald Gameboy Advance GBA Online Emulator in Browser Pokemon, a popular series of games. It has ranged from Pokemon Red and Blue(which also go..." />
+		<meta name="robots" content="max-image-preview:large" />
+		<meta name="keywords" content="emulator online,emulator online unblocked,emuparadise,gba emulator online unblocked,gba games online unblocked,gba pokemon emerald online,myemulator,online emulator unblocked,play pokemon games unblocked,pokemon emeral emulator,pokemon emerald online,pokemon emerald online unblocked,pokemon online gba" />
+		<link rel="canonical" href="https://playemulator.online/gba-games/pokemon-emerald-version/" />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.2.6.1 " />
+		<meta name="google" content="nositelinkssearchbox" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/playemulator.online\/gba-games\/pokemon-emerald-version\/#article","name":"\ud83d\udcd7 Play Pokemon Emerald Online | PlayEmulator Online","headline":"Pokemon Emerald Version","author":{"@id":"https:\/\/playemulator.online\/author\/retrogames\/#author"},"publisher":{"@id":"https:\/\/playemulator.online\/#organization"},"image":{"@type":"ImageObject","url":"https:\/\/playemulator.online\/wp-content\/uploads\/2018\/02\/pokemon-emerald-gba-e1550195056990.jpg","width":299,"height":299},"datePublished":"2018-02-15T02:15:00+00:00","dateModified":"2018-02-15T02:15:00+00:00","inLanguage":"en-US","commentCount":11,"mainEntityOfPage":{"@id":"https:\/\/playemulator.online\/gba-games\/pokemon-emerald-version\/#webpage"},"isPartOf":{"@id":"https:\/\/playemulator.online\/gba-games\/pokemon-emerald-version\/#webpage"},"articleSection":"GameBoy Advance, Pokemon Series, Popular Games, emulator online, emulator online unblocked, Emuparadise, gba emulator online unblocked, gba games online unblocked, gba pokemon emerald online, myemulator, online emulator unblocked, play pokemon games unblocked, pokemon emeral emulator, pokemon emerald online, pokemon emerald online unblocked, pokemon online gba"},{"@type":"BreadcrumbList","@id":"https:\/\/playemulator.online\/gba-games\/pokemon-emerald-version\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/playemulator.online\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/playemulator.online\/","name":"Home","description":"Come to Play Unblocked Retro Games Online Emulator! Snes, Gba, N64, NDS, Mame, Neo Geo, Genesis and more! Best of Mario, Sonic, Donkey Kong, Pokemon games!","url":"https:\/\/playemulator.online\/"},"nextItem":"https:\/\/playemulator.online\/gba-games\/#listItem"},{"@type":"ListItem","@id":"https:\/\/playemulator.online\/gba-games\/#listItem","position":2,"item":{"@type":"WebPage","@id":"https:\/\/playemulator.online\/gba-games\/","name":"GameBoy Advance","description":"Play Pokemon Emerald Gameboy Advance GBA Online Emulator in Browser Pokemon, a popular series of games. It has ranged from Pokemon Red and Blue(which also go...","url":"https:\/\/playemulator.online\/gba-games\/"},"nextItem":"https:\/\/playemulator.online\/gba-games\/pokemon-emerald-version\/#listItem","previousItem":"https:\/\/playemulator.online\/#listItem"},{"@type":"ListItem","@id":"https:\/\/playemulator.online\/gba-games\/pokemon-emerald-version\/#listItem","position":3,"item":{"@type":"WebPage","@id":"https:\/\/playemulator.online\/gba-games\/pokemon-emerald-version\/","name":"Pokemon Emerald Version","description":"Play Pokemon Emerald Gameboy Advance GBA Online Emulator in Browser Pokemon, a popular series of games. It has ranged from Pokemon Red and Blue(which also go...","url":"https:\/\/playemulator.online\/gba-games\/pokemon-emerald-version\/"},"previousItem":"https:\/\/playemulator.online\/gba-games\/#listItem"}]},{"@type":"Organization","@id":"https:\/\/playemulator.online\/#organization","name":"PlayEmulator Online","url":"https:\/\/playemulator.online\/"},{"@type":"WebPage","@id":"https:\/\/playemulator.online\/gba-games\/pokemon-emerald-version\/#webpage","url":"https:\/\/playemulator.online\/gba-games\/pokemon-emerald-version\/","name":"\ud83d\udcd7 Play Pokemon Emerald Online | PlayEmulator Online","description":"Play Pokemon Emerald Gameboy Advance GBA Online Emulator in Browser Pokemon, a popular series of games. It has ranged from Pokemon Red and Blue(which also go...","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/playemulator.online\/#website"},"breadcrumb":{"@id":"https:\/\/playemulator.online\/gba-games\/pokemon-emerald-version\/#breadcrumblist"},"author":"https:\/\/playemulator.online\/author\/retrogames\/#author","creator":"https:\/\/playemulator.online\/author\/retrogames\/#author","image":{"@type":"ImageObject","url":"https:\/\/playemulator.online\/wp-content\/uploads\/2018\/02\/pokemon-emerald-gba-e1550195056990.jpg","@id":"https:\/\/playemulator.online\/#mainImage","width":299,"height":299},"primaryImageOfPage":{"@id":"https:\/\/playemulator.online\/gba-games\/pokemon-emerald-version\/#mainImage"},"datePublished":"2018-02-15T02:15:00+00:00","dateModified":"2022-08-18T16:54:30+00:00"},{"@type":"WebSite","@id":"https:\/\/playemulator.online\/#website","url":"https:\/\/playemulator.online\/","name":"PlayEmulator Online","description":"Best Online Emulator Free and Unlocked","inLanguage":"en-US","publisher":{"@id":"https:\/\/playemulator.online\/#organization"}}]}
+		</script>
+		<script type="text/javascript" >
+			window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+			ga('create', "UA-111330654-4", 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script async src="https://www.google-analytics.com/analytics.js"></script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="PlayEmulator Online &raquo; Feed" href="https://playemulator.online/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PlayEmulator Online &raquo; Comments Feed" href="https://playemulator.online/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PlayEmulator Online &raquo; Pokemon Emerald Version Comments Feed" href="https://playemulator.online/gba-games/pokemon-emerald-version/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/playemulator.online\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://playemulator.online/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='cookie-law-info-css'  href='https://playemulator.online/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='https://playemulator.online/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://playemulator.online/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='gridwp-maincss-css'  href='https://playemulator.online/wp-content/themes/gridwp-pro/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://playemulator.online/wp-content/themes/gridwp-pro/assets/css/font-awesome.min.css' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='gridwp-webfont-css'  href='//fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i|Domine:400,700|Oswald:400,700|Poppins:400,400i,700,700i' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='gridwp-customfont-css'  href='//fonts.googleapis.com/css?family=Dosis:400,700|Raleway:400,400i,700,700i|Titillium+Web:400,400i,700,700i|Play:400,700|Lato:400,400i,700,700i|Arimo:400,400i,700,700i|PT+Sans:400,400i,700,700i|Montserrat:400,700' type='text/css' media='all' />
+<script type='text/javascript' src='https://playemulator.online/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://playemulator.online/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='cookie-law-info-js-extra'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"1","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"ccpa_gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#61a229","button_1_button_hover":"#4e8221","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#3566bb","button_3_button_hover":"#2a5296","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#333333","button_4_as_button":"","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"1","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/playemulator.online\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://playemulator.online/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.0.3' id='cookie-law-info-js'></script>
+<script type='text/javascript' id='cookie-law-info-ccpa-js-extra'>
+/* <![CDATA[ */
+var ccpa_data = {"opt_out_prompt":"Do you really wish to opt out?","opt_out_confirm":"Confirm","opt_out_cancel":"Cancel"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://playemulator.online/wp-content/plugins/cookie-law-info/legacy/admin/modules/ccpa/assets/js/cookie-law-info-ccpa.js?ver=3.0.3' id='cookie-law-info-ccpa-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://playemulator.online/wp-content/themes/gridwp-pro/assets/js/html5shiv.min.js' id='html5shiv-js'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://playemulator.online/wp-content/themes/gridwp-pro/assets/js/respond.min.js' id='respond-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://playemulator.online/wp-json/" /><link rel="alternate" type="application/json" href="https://playemulator.online/wp-json/wp/v2/posts/158" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://playemulator.online/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://playemulator.online/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.3" />
+<link rel='shortlink' href='https://playemulator.online/?p=158' />
+<link rel="alternate" type="application/json+oembed" href="https://playemulator.online/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fplayemulator.online%2Fgba-games%2Fpokemon-emerald-version%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://playemulator.online/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fplayemulator.online%2Fgba-games%2Fpokemon-emerald-version%2F&#038;format=xml" />
+<link rel="preconnect" href="https://cdnjs.cloudflare.com">    <style type="text/css">
+    body{font-family:'Dosis';font-size:;font-weight:700;font-style:;line-height:;}
+
+    h1{font-size:;font-weight:;font-style:;}
+    h2{font-size:;font-weight:;font-style:;}
+    h3{font-size:;font-weight:;font-style:;}
+    h4{font-size:;font-weight:;font-style:;}
+    h5{font-size:;font-weight:;font-style:;}
+    h6{font-size:;font-weight:;font-style:;}
+    h1,h2,h3,h4,h5,h6{font-family:'Titillium Web';line-height:;}
+
+    .gridwp-nav-secondary a{font-family:;font-size:;font-weight:;font-style:;}
+
+    .gridwp-site-title{font-family:'Raleway';font-size:;font-weight:;font-style:;line-height: !important;}
+    .gridwp-site-description{font-family:;font-size:;font-weight:;font-style:;line-height: !important;}
+
+    .gridwp-nav-primary a{font-family:'Titillium Web';font-size:15px;font-weight:400;font-style:;}
+
+    .gridwp-trending-news{font-family:;font-size:;font-weight:;font-style:;}
+
+    .entry-title{font-family:'PT Sans';font-size:;font-weight:;font-style:;line-height:;}
+
+    .gridwp-posts .gridwp-posts-heading,.gridwp-sidebar-widget-areas .widget .gridwp-widget-title,.gridwp-featured-posts-area .widget .gridwp-widget-title{font-family:'Montserrat';font-size:;font-weight:;font-style:;line-height:;}
+
+    #gridwp-footer-blocks .widget .gridwp-widget-title{font-family:;font-size:;font-weight:;font-style:;line-height:;}
+
+    .gridwp-list-post .gridwp-list-post-title{font-family:'Lato';font-size:;font-weight:;font-style:;line-height:;}
+
+    .gridwp-related-posts-wrap h4,.gridwp-grid-post .gridwp-grid-post-title{font-family:'Play';font-size:16px;font-weight:400;font-style:;line-height:;}
+
+    .gridwp-grid-post-categories a{font-family:'Arimo';font-size:13px;font-weight:;font-style:;}
+
+    .gridwp-entry-meta-single,.gridwp-list-post-footer,.gridwp-grid-post-footer{font-family:;font-size:;font-weight:;font-style:;}
+    </style>
+        <style type="text/css">
+        
+                    
+        body,button,input,select,textarea{color:#555555}
+                a:hover{color:#e0e0e0}
+        
+                .gridwp-secondary-nav-menu a:hover,.gridwp-secondary-nav-menu .current-menu-item > a,.gridwp-secondary-nav-menu .sub-menu .current-menu-item > a:hover,.gridwp-secondary-nav-menu .current_page_item > a,.gridwp-secondary-nav-menu .children .current_page_item > a:hover{color:#7f1da5}
+    .gridwp-secondary-nav-menu .sub-menu .current-menu-item > a,.gridwp-secondary-nav-menu .children .current_page_item > a{color:#7f1da5}
+            .gridwp-secondary-nav-menu .sub-menu,.gridwp-secondary-nav-menu .children{background:#eeeeee}
+            
+        .gridwp-head-content{background:#0c0c0c}
+    
+        .gridwp-nav-primary{background:#48267f}
+                    .gridwp-nav-primary-menu a{text-shadow:0 1px 0 #000000}
+    @media only screen and (max-width: 1112px) {
+    .gridwp-nav-primary-menu.gridwp-primary-responsive-menu > .menu-item-has-children:before,.gridwp-nav-primary-menu.gridwp-primary-responsive-menu > .page_item_has_children:before{text-shadow:0 1px 0 #000000}
+    .gridwp-nav-primary-menu.gridwp-primary-responsive-menu .gridwp-primary-menu-open.menu-item-has-children:before,.gridwp-nav-primary-menu.gridwp-primary-responsive-menu .gridwp-primary-menu-open.page_item_has_children:before{text-shadow:0 1px 0 #000000}
+    }
+                .gridwp-nav-primary-menu a:hover,.gridwp-nav-primary-menu .current-menu-item > a,.gridwp-nav-primary-menu .sub-menu .current-menu-item > a:hover,.gridwp-nav-primary-menu .current_page_item > a,.gridwp-nav-primary-menu .children .current_page_item > a:hover{background:#800080}
+            .gridwp-nav-primary-menu .sub-menu,.gridwp-nav-primary-menu .children{background:#523680}
+                
+        .gridwp-top-social-bar{background: #523680;}
+            .gridwp-top-social-icons a{color: #88d651 !important;}
+    .gridwp-top-social-icons a i{border: 1px solid #88d651 !important;}
+            
+                    
+        .gridwp-box{background:#590068}
+            .gridwp-box{border:1px solid #8224e3}
+    
+                .entry-title,.entry-title a{color:#636363;}
+            .entry-title a:hover{color:#8c8c8c;}
+                .gridwp-list-post .gridwp-list-post-title a:hover{color:#f7f7f7 !important;}
+            
+        
+        .gridwp-grid-post-categories a{color:#ffffff !important;}
+                
+        .gridwp-entry-meta-single,.gridwp-entry-meta-single a{color:#666666;}
+                        
+                
+                .gridwp-sidebar-widget-areas .widget li{border-bottom:1px solid #8224e3;}
+    .gridwp-sidebar-widget-areas .widget li:last-child{border-bottom:none;}
+    .gridwp-featured-posts-area .widget li{border-bottom:1px solid #8224e3;}
+    
+                
+        #gridwp-footer-blocks{background:#523680;}
+            #gridwp-footer-blocks{border-top:3px solid #913157;}
+                                
+            
+            </style>
+        <style type="text/css">
+            .gridwp-site-title, .gridwp-site-title a, .gridwp-site-description {color: #ffffff;}
+        </style>
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #160033; }
+</style>
+	<link rel="amphtml" href="https://playemulator.online/gba-games/pokemon-emerald-version/?amp=1"><style>#amp-mobile-version-switcher{left:0;position:absolute;width:100%;z-index:100}#amp-mobile-version-switcher>a{background-color:#444;border:0;color:#eaeaea;display:block;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:16px;font-weight:600;padding:15px 0;text-align:center;text-decoration:none}#amp-mobile-version-switcher>a:active,#amp-mobile-version-switcher>a:focus,#amp-mobile-version-switcher>a:hover{text-decoration:underline}</style><link rel="alternate" type="text/html" media="only screen and (max-width: 640px)" href="https://playemulator.online/gba-games/pokemon-emerald-version/?amp=1"><link rel="icon" href="https://playemulator.online/wp-content/uploads/2018/03/128a-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://playemulator.online/wp-content/uploads/2018/03/128a.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://playemulator.online/wp-content/uploads/2018/03/128a.png" />
+<meta name="msapplication-TileImage" content="https://playemulator.online/wp-content/uploads/2018/03/128a.png" />
+		<style type="text/css" id="wp-custom-css">
+			body {max-width: 1250px;
+	margin: 0 auto;}
+
+.gridwp-grid-post.gridwp-5-col:nth-of-type(5n+1) {
+    clear: right;
+}
+
+.gridwp-grid-post-thumbnail img {
+    width: auto;
+    height: 220px;
+    object-fit: cover;
+		-webkit-transform: scale(1.1);
+	transform: scale(1.08);
+		background: #1abc9c;
+	-webkit-transition: .3s ease-in-out;
+	transition: .2s ease-in-out;
+    padding: 5px;
+	    margin: 0 auto;
+}
+
+.gridwp-cgrid-post-details {
+    width: 100%;
+    height: auto;
+    float: none;
+    position: absolute;
+    z-index: 5;
+    bottom: 0px;
+    padding: 10px;
+    background: rgb(11, 44, 78);
+}
+
+#gridwp-header-banner img {
+    float: right;
+}
+	.gridwp-header-inside {
+    padding: 10px;
+	  background: #523680;
+}
+
+	.gridwp-box {
+    background: #523680;
+    border: 1px solid #ddddddad;
+    -webkit-box-shadow: 0 0 40px rgba(255, 255, 255, 0.1) inset;
+    -moz-box-shadow: 0 0 40px rgba(0,0,0,.1) inset;
+    box-shadow: 0 0 40px rgb(255, 255, 255) inset;
+}
+
+.gridwp-grid-post .gridwp-grid-post-title a {
+    color: #ffffff !important;
+    text-shadow: 0px 0px 0px #000000;
+    text-overflow: ellipsis;
+    white-space: break-spaces;
+    font-weight: 400;
+}
+
+.gridwp-grid-post-details {
+    width: 100%;
+    height: 60px;
+    float: none;
+    padding: 1px 0px;
+    transition: all 0.4s ease-in-out;
+    background: #164777;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+	.gridwp-grid-post .gridwp-grid-post-title a:hover {
+    color: #000 !important;
+}
+
+	.gridwp-grid-post-thumbnail img:hover {
+    opacity: 0.8;
+}
+
+	.gridwp-grid-post.gridwp-5-col {
+    border-radius: 15px;
+}
+
+	.page-header h1 {
+    line-height: 1;
+    padding: 0px 0;
+    margin: 0;
+    color: #ffffff;
+}
+
+	.page-header {
+    color: #ffffff;
+    margin: 0 0 10px 0;
+    text-align: center;
+    background: #ffffff;
+    border: 0px solid #ffffff;
+}
+
+#gridwp-primary-navigation {    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;}
+
+.site-branding .gridwp-site-title a {
+    font-family: 'Press Start 2P', display;
+	font-weight: normal;
+
+	    text-shadow: 2px -1px black;
+
+}
+
+#gridwp-logo .site-branding p {
+    font-family: 'Press Start 2P', display;
+ font-weight: normal;
+
+	    text-shadow: 2px -1px black;
+
+}
+
+
+.gridwp-head-content {
+    background: #303030;
+}
+.gridwp-sidebar-widget-areas .widget {
+    background: #58005800;
+}
+
+.gridwp-box {
+    background: #fff;
+	border: 1px;
+    -webkit-box-shadow: 0 0 40px rgba(255, 255, 255, 0.1) inset;
+    -moz-box-shadow: 0 0 40px rgba(0,0,0,.1) inset;
+    box-shadow: 0px 3px 1px rgb(127, 24, 27);
+    border-radius: 10px;
+}
+
+.page-header {
+    border-radius: 10px;
+    color: #fff;
+    margin: 0 0 10px 0;
+    text-align: center;
+    background: #523680;
+    border: 0 solid #fff;
+    box-shadow: 0 2px #7f181b;
+}
+
+.wp-pagenavi a, .wp-pagenavi span {
+    text-decoration: none;
+    border: 1px solid #7f181b !important;
+    padding: 3px 5px;
+    margin: 2px;
+    display: inline-block;
+    background: #523680;
+    color: #f9f9f9;
+    font-family: inherit;
+    font-size: large;
+    font-weight: 700;
+}
+
+.gridwp-box {
+    background: #58005800;
+    border: 1px;
+    -webkit-box-shadow: 0 0 40px rgba(255,255,255,.1) inset;
+    -moz-box-shadow: 0 0 40px rgba(0,0,0,.1) inset;
+    box-shadow: 0 3px 1px rgba(127, 24, 27, 0);
+    border-radius: 10px;
+    color: #1d1b1b;
+}
+.page-header h1 {
+    font-family: inherit;
+}
+
+.gridwp-nav-primary-menu > li > a {
+    border-right: 1px solid #800080;
+}
+
+.gridwp-nav-primary-menu > li > a {
+    border-left: 1px solid #800080;
+}
+input.gridwp-search-submit {
+    padding: 10px 10px;
+    line-height: 1;
+    font-size: large;
+    background: #523680;
+    border: 2px #fff;
+}
+
+/* Gridwp header inside */
+#gridwp-head-content .gridwp-header-inside{
+	font-family:'Press Start 2P', display;
+}
+
+/* Input */
+.gridwp-search-form label input[type=search]{
+	width:auto;
+	height:auto
+}
+.gridwp-outer-wrapper {
+   background: white;
+}		</style>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4647802911128527"
+     crossorigin="anonymous"></script>
+     
+     <style>
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+</style><style>
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+</style>
+</head>
+
+<body data-rsssl=1 class="post-template-default single single-post postid-158 single-format-standard custom-background gridwp-animated gridwp-fadein gridwp-layout-c-s1 gridwp-no-bottom-widgets" id="gridwp-site-body" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+<div class="gridwp-outer-wrapper">
+<div class="gridwp-top-social-bar">
+
+<div class="gridwp-top-social-icons clearfix">
+        <span class="gridwp-top-social-icons-right">
+                                                                                                                        <a href="#" title="Search" class="gridwp-social-search-icon"><i class="fa fa-search"></i></a>
+    </span>
+</div>
+
+
+<div id="gridwp-search-overlay-wrap" class="gridwp-search-overlay">
+  <span class="gridwp-search-closebtn" title="Close Search">&#xD7;</span>
+  <div class="gridwp-search-overlay-content">
+    
+<form role="search" method="get" class="gridwp-search-form" action="https://playemulator.online/">
+<label>
+    <span class="screen-reader-text">Search for:</span>
+    <input type="search" class="gridwp-search-field" placeholder="Search &hellip;" value="" name="s" />
+</label>
+<input type="submit" class="gridwp-search-submit" value="Search" />
+</form>  </div>
+</div>
+</div>
+</div>
+
+<div class="gridwp-outer-wrapper">
+<div class="gridwp-container" id="gridwp-header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" role="banner">
+<div class="gridwp-head-content clearfix" id="gridwp-head-content">
+
+<div class="gridwp-header-inside clearfix">
+
+<div id="gridwp-logo">
+    <div class="site-branding">
+      <h1 class="gridwp-site-title"><a href="https://playemulator.online/" rel="home">PlayEmulator Online</a></h1>
+      <p class="gridwp-site-description">Best Online Emulator Free and Unlocked</p>
+    </div>
+</div><!--/#gridwp-logo -->
+
+<div id="gridwp-header-banner">
+
+
+<div id="block-21" class="gridwp-header-widget widget widget_block widget_media_image"><div class="wp-block-image">
+<figure class="alignleft size-full is-resized"><a href="https://playemulator.online"><img loading="lazy" src="https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-30_220318205.png" alt="" class="wp-image-6986" width="157" height="52" srcset="https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-30_220318205.png 180w, https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-30_220318205-150x50.png 150w" sizes="(max-width: 157px) 100vw, 157px" /></a></figure></div></div><div id="block-19" class="gridwp-header-widget widget widget_block widget_search"><form role="search" method="get" action="https://playemulator.online/" class="wp-block-search__button-outside wp-block-search__text-button alignright wp-block-search"><label for="wp-block-search__input-1" class="wp-block-search__label screen-reader-text">Search</label><div class="wp-block-search__inside-wrapper "  style="width: 312px"><input type="search" id="wp-block-search__input-1" class="wp-block-search__input " name="s" value="" placeholder=""  required /><button type="submit" class="wp-block-search__button  "  >Search</button></div></form></div>
+</div><!--/#gridwp-header-banner -->
+
+</div>
+
+
+</div><!--/#gridwp-head-content -->
+</div><!--/#gridwp-header -->
+</div>
+
+<div class="gridwp-outer-wrapper">
+<div class="gridwp-container gridwp-primary-menu-container clearfix">
+<div class="gridwp-primary-menu-container-inside clearfix">
+<nav class="gridwp-nav-primary" id="gridwp-primary-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<div class="menu-cats-container"><ul id="gridwp-menu-primary-navigation" class="gridwp-nav-primary-menu gridwp-menu-primary"><li id="menu-item-1417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1417"><a href="https://nds.playemulator.online">Nintendo DS</a></li>
+<li id="menu-item-93" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93"><a href="https://playemulator.online/category/snes-games/">SNES</a></li>
+<li id="menu-item-3290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3290"><a href="https://playemulator.online/category/nes/">NES</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-89"><a href="https://playemulator.online/category/gba-games/">GBA</a></li>
+<li id="menu-item-515" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-515"><a href="https://playemulator.online/category/gameboy-color-gbc/">GB GBC</a></li>
+<li id="menu-item-951" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-951"><a href="https://playemulator.online/category/nintendo-64/">N64</a></li>
+<li id="menu-item-1778" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1778"><a href="https://playemulator.online/category/playstation-ps1/">PlayStation</a></li>
+<li id="menu-item-91" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-91"><a href="https://playemulator.online/category/popular-games/">Popular Games</a>
+<ul class="sub-menu">
+	<li id="menu-item-169" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-169"><a href="https://playemulator.online/category/popular-games/pokemon-series/">Pokemon Games</a></li>
+	<li id="menu-item-1992" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1992"><a href="https://playemulator.online/category/popular-games/hacked-pokemon-games/">Hacked Pokemon Games</a></li>
+	<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171"><a href="https://playemulator.online/category/popular-games/super-mario-series/">Super Mario Games</a></li>
+	<li id="menu-item-170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-170"><a href="https://playemulator.online/category/popular-games/street-fighter-series/">Street Fighter Games</a></li>
+	<li id="menu-item-302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-302"><a href="https://playemulator.online/category/popular-games/sonic-all-series/">Sonic Games</a></li>
+	<li id="menu-item-1413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1413"><a href="https://playemulator.online/category/popular-games/donkey-kong-games/">Donkey Kong Games</a></li>
+	<li id="menu-item-254" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-254"><a href="https://playemulator.online/category/popular-games/metal-slug-all-series/">Metal Slug Games</a></li>
+	<li id="menu-item-376" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-376"><a href="https://playemulator.online/category/popular-games/mortal-kombat-all-series/">Mortal Kombat Games</a></li>
+	<li id="menu-item-253" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-253"><a href="https://playemulator.online/category/popular-games/king-of-fighters-all-series/">King of Fighters Games</a></li>
+</ul>
+</li>
+<li id="menu-item-92" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92"><a href="https://playemulator.online/category/sega-genesis-roms/">Genesis</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-86"><a href="https://playemulator.online/category/mame-games/">MAME</a></li>
+</ul></div></nav>
+</div>
+</div>
+</div>
+
+
+<div class="gridwp-outer-wrapper">
+
+<div class="gridwp-top-wrapper-outer clearfix">
+<div class="gridwp-featured-posts-area gridwp-top-wrapper clearfix">
+
+
+
+</div>
+</div>
+
+</div>
+
+<div class="gridwp-outer-wrapper">
+<div class="gridwp-container clearfix" id="gridwp-wrapper">
+<div class="gridwp-content-wrapper clearfix" id="gridwp-content-wrapper">
+<div class="gridwp-main-wrapper clearfix" id="gridwp-main-wrapper" itemscope="itemscope" itemtype="http://schema.org/Blog" role="main">
+<div class="theiaStickySidebar">
+<div class="gridwp-main-wrapper-inside clearfix">
+
+
+
+
+<div class="gridwp-posts-wrapper" id="gridwp-posts-wrapper">
+
+<div class='code-block code-block-1' style='margin: 8px 0; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4647802911128527"
+     crossorigin="anonymous"></script>
+<!-- banner -->
+<ins class="adsbygoogle"
+     style="display:block;background-color:transparent"
+     data-ad-client="ca-pub-4647802911128527"
+     data-ad-slot="3209723985"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+    
+<article id="post-158" class="gridwp-post-singular gridwp-box post-158 post type-post status-publish format-standard has-post-thumbnail hentry category-gba-games category-pokemon-series category-popular-games tag-emulator-online tag-emulator-online-unblocked tag-emuparadise tag-gba-emulator-online-unblocked tag-gba-games-online-unblocked tag-gba-pokemon-emerald-online tag-myemulator tag-online-emulator-unblocked tag-play-pokemon-games-unblocked tag-pokemon-emeral-emulator tag-pokemon-emerald-online tag-pokemon-emerald-online-unblocked tag-pokemon-online-gba wpcat-6-id wpcat-134-id wpcat-9-id">
+
+    <header class="entry-header">
+        
+        <h1 class="post-title entry-title"><a href="https://playemulator.online/gba-games/pokemon-emerald-version/" rel="bookmark">Pokemon Emerald Version</a></h1>
+                <div class="gridwp-entry-meta-single">
+                    </div>
+        </header><!-- .entry-header -->
+
+    <div class="entry-content clearfix">
+            
+
+<!-- ECM Shortcode Block (30) - gba-pokemon-emerald-version - START -->
+<span id='csmi-e2bcaaf3e550146aa5fbf9f96356d080' class='csmi csmi-bid-30 csmi-gba-pokemon-emerald-version'><div id='emul'></div>
+<script>
+var NepPlayer = "#emul";
+
+var NepEmu = "gba";
+
+var NepLang = "en";
+
+var gameUrl ="https://playemulator.online/games/gba/Pokemon - Emerald Version (USA, Europe).zip";
+
+var NjsScript=document.createElement( 'script' );
+
+NjsScript.src="//mem.neptunjs.com/njs/njsLoader.js";
+
+document.body.appendChild(NjsScript)
+
+</script></span>
+<!-- ECM Shortcode Block (30) - gba-pokemon-emerald-version - END -->
+
+
+<p>&nbsp;</p>
+<p><strong>Play Pokemon Emerald Gameboy Advance GBA Online Emulator in Browser</strong></p>
+<p>&nbsp;</p>
+<p>Pokemon, a popular series of games. It has ranged from <strong>Pokemon Red</strong> and <strong>Blue</strong>(which also got remakes, <strong>Fire Red</strong> and <strong>Leaf Green</strong>), the games that started Pokemon, as well as their third edition game, Yellow, followed by <strong>Gold</strong> and <strong>Silver</strong> with their third edition game, <strong>Crystal</strong>, and most recently, Ruby and Sapphire, with their third edition, <strong>Emerald</strong>. Out of these, this review is for the game Emerald.</p>
+<p>Emerald, being the third edition of <strong>Ruby</strong> and <strong>Sapphire</strong>, you would expect to be very similar to said games. However, Emerald manages to add plenty of new things to make it considerably different from Ruby and Sapphire, from design, to new add ons. These additions are covered in later paragraphs.</p>
+<p>The gameplay is rather simple and easy to catch on &#8211; you first have to rescue the Professor at your hometown, Littleroot Town, from a Zigzagoon chasing him, which was a Poochyena in Ruby and Sapphire. You have to pick one of three Pokemon &#8211; Treecko, a grass-type gecko-like Pokemon; Torchic, a fire-type chick-like Pokemon; or Mudkip, a water-type mud fish-like Pokemon; to defeat the Zigzagoon in battle. After that, Birch lets you keep the Pokemon as a thanks. You then can journey to battle your rival, who is rather friendly compared to the previous rivals of the Pokemon games. He/she, depending on the gender you picked for yourself, will have the Pokemon with the type advantage over yours. But since neighter Pokemon know attacks of their own type, it isn&#8217;t too hard. Then you can get PokeBalls, and you can catch more Pokemon, and challenge Gym Leaders, who will give you badges if you beat them, your rival, many other trainers, and finally, the Elite 4, a group of 5 trainers who all train high level Pokemon. When you beat them, you and the Pokemon in your team get put in the hall of fame.</p>
+<p>The design, while still similar to Ruby and Sapphire, has managed to improve. The overworld manages to look better than it was in Ruby and Sapphire, as it looks more like a cross between R/S and Fire Red/Leaf Green. The design of the bag, where you store items to help you in the game, has improved from R/S, and looks more like FR/LG, with the exception of the fact that there&#8217;s a specific bag for berries like it was in R/S, while berries were stored in a Berry Pouch in FR/LG. However, Emerald keeps the fact that you can see miniature images of the object you&#8217;re checking from FR/LG. In a battle, the text changed, and more notably, the Pokemon in battle now have animations seen when they are first seen in a battle. However, the animations vary in quality, as there are only two different sprites in reality for the animations: the rest of the animation is just modified from one of those two sprites. Some of these manage to go rather well, such as Ditto or Minun; in the case of Minun, it actually looks like it&#8217;s saying it&#8217;s cry. Some, like Combusken, are rather bad, since Combusken suddenly moves it&#8217;s head by a lot in it&#8217;s animation, so it can&#8217;t go too well with only two sprites. But if you can&#8217;t stand the animations, don&#8217;t worry. You can simply switch Battle Scene in the options menu from &#8220;ON&#8221; to &#8220;OFF,&#8221; and you won&#8217;t see the animations in battle.</p>
+<p>There are plenty of 100% new additions to Emerald that weren&#8217;t in R/S at all. One of them is the fact you can get many Pokemon from Johto that were originally only obtainable in the GBA era by breeding Colosseum/XD Pokemon. Most of those are obtainable in a new Safari Zone section unlocked after beating the Elite 4, but you can also find a Sudowoodo you need to use the Wailmer Pail on to battle(much similar to how you needed to use a Squirtbottle on Sudowoodo to battle it in G/S/C) and a Smeargle-infested cave, both at the Battle Frontier, which will be covered later in this paragraph. A notable addition is the Match Call added to your PokeNav, where you can call trainers you recorded in Match Call, including Gym Leaders. You can rechallenge Gym Leaders up to four extra times after beating the Elite 4, where the Gym Leaders will be training Kanto and Johto Pokemon. Often, trainers will suddenly call you, always normal ones. Another feature is the addition of the Battle Frontier, which replaces the Battle Tower of R/S. You can try different styles of battles, which will be recorded on your Frontier Pass, which you will get when you first go to the Frontier. You can also catch both Kyogre and Groudon, choose with Lati you want(Latias or Latios), and get both fossils(the Root Fossil, containing Lileep, and the Claw Fossil, contianing Anorith), the one you didn&#8217;t pick the first time at the desert now being findable in a Ditto-infested cave at the Fossil Maniac&#8217;s house. There are also more additions, but I think I&#8217;ve mentioned plenty.</p>
+<p>There are several things from R/S gotten rid of in Emerald, but none of these are too big of a deal. One of these changes is a lack of certain Pokemon, as you can&#8217;t catch Surskit, Masquerain, Meditite, Medicham, Roselia, Zangoose, or Lunatone in these games, all of which where catchable in Ruby, Sapphire, or both. However, the problem is easily solved by trading. That is probably one of the most major removals, so in general, not much worthwile stuff from R/S is gone in Emerald.</p>
+<p>Of course, nothing is perfect, and Pokemon Emerald is no exception. For example, Emerald can get kind of annoying with too much wild Pokemon of a specific type(I could compare Zubat with StarBucks &#8211; both are so common), and even though I could use repels to avoid them, I&#8217;m often trying to look for a rare Pokemon, like Snorunt. And also, a few of the gym puzzles are rather tedious, such as Tate and Liza&#8217;s &#8211; but it is at least less tedious than the R/S version, where it was very annoying. I can&#8217;t say Flannery&#8217;s is that enjoyable eighter, but I do find Winona&#8217;s and Juan&#8217;s puzzles kind of fun.</p>
+<p>I would consider Emerald to be a decent improvement over R/S, and while it is fine if you do not want Emerald, I myself would recommend it.</p>
+    </div><!-- .entry-content -->
+
+    <footer class="entry-footer">
+                    </footer><!-- .entry-footer -->
+
+    
+    <div class="gridwp-related-posts-wrap" id="gridwp-related-posts-wrap">
+        <h4>Related Games</h4>
+        <div class="gridwp-grid-posts">
+        
+            <div class="gridwp-grid-post gridwp-4-col">
+            <div class="gridwp-grid-post-inside">
+                                    <div class="gridwp-grid-post-thumbnail">
+                    <a href="https://playemulator.online/popular-games/pokemon-crystal-version-gbc/" title="Permanent Link to Pokemon &#8211; Crystal Version GBC"><img width="360" height="360" src="https://playemulator.online/wp-content/uploads/2018/02/pokemon-crystal.png" class="gridwp-grid-post-thumbnail-img wp-post-image" alt="" srcset="https://playemulator.online/wp-content/uploads/2018/02/pokemon-crystal.png 512w, https://playemulator.online/wp-content/uploads/2018/02/pokemon-crystal-250x250.png 250w, https://playemulator.online/wp-content/uploads/2018/02/pokemon-crystal-150x150.png 150w, https://playemulator.online/wp-content/uploads/2018/02/pokemon-crystal-100x100.png 100w" sizes="(max-width: 360px) 100vw, 360px" /></a>
+                                                                                    </div>
+                                <div class="gridwp-grid-post-details">
+                <h3 class="gridwp-grid-post-title"><a href="https://playemulator.online/popular-games/pokemon-crystal-version-gbc/" rel="bookmark">Pokemon &#8211; Crystal Version GBC</a></h3>                </div>
+            </div>
+            </div>
+
+        
+            <div class="gridwp-grid-post gridwp-4-col">
+            <div class="gridwp-grid-post-inside">
+                                    <div class="gridwp-grid-post-thumbnail">
+                    <a href="https://playemulator.online/gba-games/lord-of-the-rings-2-the-two-towers/" title="Permanent Link to Lord of the Rings 2 &#8211; The Two Towers"><img width="360" height="360" src="https://playemulator.online/wp-content/uploads/2018/03/thelordoftheringsthetwotowers.jpg" class="gridwp-grid-post-thumbnail-img wp-post-image" alt="" loading="lazy" srcset="https://playemulator.online/wp-content/uploads/2018/03/thelordoftheringsthetwotowers.jpg 512w, https://playemulator.online/wp-content/uploads/2018/03/thelordoftheringsthetwotowers-250x250.jpg 250w, https://playemulator.online/wp-content/uploads/2018/03/thelordoftheringsthetwotowers-150x150.jpg 150w, https://playemulator.online/wp-content/uploads/2018/03/thelordoftheringsthetwotowers-100x100.jpg 100w" sizes="(max-width: 360px) 100vw, 360px" /></a>
+                                                                                    </div>
+                                <div class="gridwp-grid-post-details">
+                <h3 class="gridwp-grid-post-title"><a href="https://playemulator.online/gba-games/lord-of-the-rings-2-the-two-towers/" rel="bookmark">Lord of the Rings 2 &#8211; The Two Towers</a></h3>                </div>
+            </div>
+            </div>
+
+        
+            <div class="gridwp-grid-post gridwp-4-col">
+            <div class="gridwp-grid-post-inside">
+                                    <div class="gridwp-grid-post-thumbnail">
+                    <a href="https://playemulator.online/gba-games/mario-advanced-mario-bros-2-mario-classic/" title="Permanent Link to Super Mario Advance Mario Bros. 2 + Mario Classic"><img width="360" height="360" src="https://playemulator.online/wp-content/uploads/2018/02/Mario-Advanced-Mario-Bros.-2-Mario-Classic.jpg" class="gridwp-grid-post-thumbnail-img wp-post-image" alt="Mario Advanced - Mario Bros. 2 + Mario Classic" loading="lazy" srcset="https://playemulator.online/wp-content/uploads/2018/02/Mario-Advanced-Mario-Bros.-2-Mario-Classic.jpg 512w, https://playemulator.online/wp-content/uploads/2018/02/Mario-Advanced-Mario-Bros.-2-Mario-Classic-250x250.jpg 250w, https://playemulator.online/wp-content/uploads/2018/02/Mario-Advanced-Mario-Bros.-2-Mario-Classic-150x150.jpg 150w, https://playemulator.online/wp-content/uploads/2018/02/Mario-Advanced-Mario-Bros.-2-Mario-Classic-100x100.jpg 100w" sizes="(max-width: 360px) 100vw, 360px" /></a>
+                                                                                    </div>
+                                <div class="gridwp-grid-post-details">
+                <h3 class="gridwp-grid-post-title"><a href="https://playemulator.online/gba-games/mario-advanced-mario-bros-2-mario-classic/" rel="bookmark">Super Mario Advance Mario Bros. 2 + Mario Classic</a></h3>                </div>
+            </div>
+            </div>
+
+        
+            <div class="gridwp-grid-post gridwp-4-col">
+            <div class="gridwp-grid-post-inside">
+                                    <div class="gridwp-grid-post-thumbnail">
+                    <a href="https://playemulator.online/gba-games/final-fantasy-tactics-advanced/" title="Permanent Link to Final Fantasy &#8211; Tactics Advanced"><img width="360" height="360" src="https://playemulator.online/wp-content/uploads/2018/02/18316front-45397-6.jpg" class="gridwp-grid-post-thumbnail-img wp-post-image" alt="" loading="lazy" srcset="https://playemulator.online/wp-content/uploads/2018/02/18316front-45397-6.jpg 512w, https://playemulator.online/wp-content/uploads/2018/02/18316front-45397-6-250x250.jpg 250w, https://playemulator.online/wp-content/uploads/2018/02/18316front-45397-6-150x150.jpg 150w, https://playemulator.online/wp-content/uploads/2018/02/18316front-45397-6-100x100.jpg 100w" sizes="(max-width: 360px) 100vw, 360px" /></a>
+                                                                                    </div>
+                                <div class="gridwp-grid-post-details">
+                <h3 class="gridwp-grid-post-title"><a href="https://playemulator.online/gba-games/final-fantasy-tactics-advanced/" rel="bookmark">Final Fantasy &#8211; Tactics Advanced</a></h3>                </div>
+            </div>
+            </div>
+
+            </div>
+</div>
+
+</article>
+    
+	<nav class="navigation post-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://playemulator.online/gba-games/pokemon-fire-red/" rel="prev">&larr; Pokemon Fire Red</a></div><div class="nav-next"><a href="https://playemulator.online/gba-games/super-mario-advance-2-super-mario-world/" rel="next">Super Mario Advance 2: Super Mario World &rarr;</a></div></div>
+	</nav>
+    <div class="gridwp-featured-posts-area clearfix">
+        </div>
+
+    
+<div id="comments" class="comments-area gridwp-box">
+
+            <h2 class="comments-title">
+            11 thoughts on &ldquo;<span>Pokemon Emerald Version</span>&rdquo;        </h2><!-- .comments-title -->
+
+        
+        <ol class="comment-list">
+            		<li id="comment-3" class="comment even thread-even depth-1 parent">
+			<article id="div-comment-3" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/cf5d6f40e993fbcc24fd5c04fb866761?s=32&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/cf5d6f40e993fbcc24fd5c04fb866761?s=64&#038;d=retro&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b class="fn">coob</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://playemulator.online/gba-games/pokemon-emerald-version/#comment-3"><time datetime="2018-03-01T14:45:20+00:00">March 1, 2018 at 2:45 pm</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>please fix pokenav</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://playemulator.online/gba-games/pokemon-emerald-version/?replytocom=3#respond' data-commentid="3" data-postid="158" data-belowelement="div-comment-3" data-respondelement="respond" data-replyto="Reply to coob" aria-label='Reply to coob'>Reply</a></div>			</article><!-- .comment-body -->
+		<ol class="children">
+		<li id="comment-4" class="comment byuser comment-author-retrogames bypostauthor odd alt depth-2 parent">
+			<article id="div-comment-4" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/5898c9b201f21df57200ec28734bff81?s=32&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/5898c9b201f21df57200ec28734bff81?s=64&#038;d=retro&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b class="fn">retrogames</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://playemulator.online/gba-games/pokemon-emerald-version/#comment-4"><time datetime="2018-03-01T20:37:37+00:00">March 1, 2018 at 8:37 pm</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>fixed</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://playemulator.online/gba-games/pokemon-emerald-version/?replytocom=4#respond' data-commentid="4" data-postid="158" data-belowelement="div-comment-4" data-respondelement="respond" data-replyto="Reply to retrogames" aria-label='Reply to retrogames'>Reply</a></div>			</article><!-- .comment-body -->
+		<ol class="children">
+		<li id="comment-5" class="comment even depth-3">
+			<article id="div-comment-5" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/cf5d6f40e993fbcc24fd5c04fb866761?s=32&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/cf5d6f40e993fbcc24fd5c04fb866761?s=64&#038;d=retro&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b class="fn">coob</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://playemulator.online/gba-games/pokemon-emerald-version/#comment-5"><time datetime="2018-03-02T15:08:54+00:00">March 2, 2018 at 3:08 pm</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>thanks<br />
+thanks</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://playemulator.online/gba-games/pokemon-emerald-version/?replytocom=5#respond' data-commentid="5" data-postid="158" data-belowelement="div-comment-5" data-respondelement="respond" data-replyto="Reply to coob" aria-label='Reply to coob'>Reply</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-8" class="comment odd alt thread-odd thread-alt depth-1 parent">
+			<article id="div-comment-8" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/28285854086025ee8794f9213ba67fb9?s=32&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/28285854086025ee8794f9213ba67fb9?s=64&#038;d=retro&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b class="fn">trying to play in school</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://playemulator.online/gba-games/pokemon-emerald-version/#comment-8"><time datetime="2018-03-04T17:37:38+00:00">March 4, 2018 at 5:37 pm</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>why is it that I save the game on the flash emulator and when I restart my computer, it goes back a few saves. What is the saving system like. I can&#8217;t seem to find a way to make this work. And I can&#8217;t do hard saves because I don&#8217;t have anything that can open .gg files. Help?</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://playemulator.online/gba-games/pokemon-emerald-version/?replytocom=8#respond' data-commentid="8" data-postid="158" data-belowelement="div-comment-8" data-respondelement="respond" data-replyto="Reply to trying to play in school" aria-label='Reply to trying to play in school'>Reply</a></div>			</article><!-- .comment-body -->
+		<ol class="children">
+		<li id="comment-9" class="comment byuser comment-author-retrogames bypostauthor even depth-2 parent">
+			<article id="div-comment-9" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/5898c9b201f21df57200ec28734bff81?s=32&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/5898c9b201f21df57200ec28734bff81?s=64&#038;d=retro&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b class="fn">retrogames</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://playemulator.online/gba-games/pokemon-emerald-version/#comment-9"><time datetime="2018-03-04T20:57:37+00:00">March 4, 2018 at 8:57 pm</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Hi,<br />
+you need to save game on the emulator menu (it lets you to download the save game data to load it later) and then when you want to load the saved game later, just press the load on the menu and select the saved game file.<br />
+You&#8217;ll be at the last screen from your last time on the game.<br />
+All you need is to start the game, then select your saved .gg file. .gg files can be opened only with our online emulator.</p>
+<p>By the way, In-game-save may not work properly.</p>
+<p>Thanks for playing! 🙂</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://playemulator.online/gba-games/pokemon-emerald-version/?replytocom=9#respond' data-commentid="9" data-postid="158" data-belowelement="div-comment-9" data-respondelement="respond" data-replyto="Reply to retrogames" aria-label='Reply to retrogames'>Reply</a></div>			</article><!-- .comment-body -->
+		<ol class="children">
+		<li id="comment-10" class="comment odd alt depth-3">
+			<article id="div-comment-10" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/28285854086025ee8794f9213ba67fb9?s=32&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/28285854086025ee8794f9213ba67fb9?s=64&#038;d=retro&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b class="fn">trying to play in school</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://playemulator.online/gba-games/pokemon-emerald-version/#comment-10"><time datetime="2018-03-04T22:27:59+00:00">March 4, 2018 at 10:27 pm</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>THANK YOU SO MUCH YOU ARE THE BEST! I kept trying to open the .gg on Chrome instead of with the upload button. I am such an idiot.</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://playemulator.online/gba-games/pokemon-emerald-version/?replytocom=10#respond' data-commentid="10" data-postid="158" data-belowelement="div-comment-10" data-respondelement="respond" data-replyto="Reply to trying to play in school" aria-label='Reply to trying to play in school'>Reply</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-93" class="comment even thread-even depth-1">
+			<article id="div-comment-93" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/b35ceb609aa7b91f49e44b4004e938a1?s=32&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/b35ceb609aa7b91f49e44b4004e938a1?s=64&#038;d=retro&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b class="fn">isaiah</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://playemulator.online/gba-games/pokemon-emerald-version/#comment-93"><time datetime="2018-05-22T23:19:36+00:00">May 22, 2018 at 11:19 pm</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>good game but can you trade pokemon with yourself on a different game i am trying to get into the cable club</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://playemulator.online/gba-games/pokemon-emerald-version/?replytocom=93#respond' data-commentid="93" data-postid="158" data-belowelement="div-comment-93" data-respondelement="respond" data-replyto="Reply to isaiah" aria-label='Reply to isaiah'>Reply</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-95" class="comment odd alt thread-odd thread-alt depth-1 parent">
+			<article id="div-comment-95" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/0cc7848351a7ce27d8bb11bde5fe1112?s=32&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/0cc7848351a7ce27d8bb11bde5fe1112?s=64&#038;d=retro&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b class="fn">Mike</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://playemulator.online/gba-games/pokemon-emerald-version/#comment-95"><time datetime="2018-05-23T18:00:47+00:00">May 23, 2018 at 6:00 pm</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>it gets stuck at the loading screen and i don&#8217;t know how to fix it please help!</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://playemulator.online/gba-games/pokemon-emerald-version/?replytocom=95#respond' data-commentid="95" data-postid="158" data-belowelement="div-comment-95" data-respondelement="respond" data-replyto="Reply to Mike" aria-label='Reply to Mike'>Reply</a></div>			</article><!-- .comment-body -->
+		<ol class="children">
+		<li id="comment-96" class="comment byuser comment-author-retrogames bypostauthor even depth-2">
+			<article id="div-comment-96" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/5898c9b201f21df57200ec28734bff81?s=32&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/5898c9b201f21df57200ec28734bff81?s=64&#038;d=retro&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b class="fn">retrogames</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://playemulator.online/gba-games/pokemon-emerald-version/#comment-96"><time datetime="2018-05-23T21:59:58+00:00">May 23, 2018 at 9:59 pm</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Sorry for hear that you had issue to play Pokemon Emerald. I tested 4-5 times and worked without any problem.<br />
+Can you please try again? Maybe you got some connection issues. Because it works like a charm.</p>
+<p>Happy playing 🙂</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://playemulator.online/gba-games/pokemon-emerald-version/?replytocom=96#respond' data-commentid="96" data-postid="158" data-belowelement="div-comment-96" data-respondelement="respond" data-replyto="Reply to retrogames" aria-label='Reply to retrogames'>Reply</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-98" class="comment odd alt thread-even depth-1 parent">
+			<article id="div-comment-98" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/b35ceb609aa7b91f49e44b4004e938a1?s=32&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/b35ceb609aa7b91f49e44b4004e938a1?s=64&#038;d=retro&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b class="fn">isaiah</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://playemulator.online/gba-games/pokemon-emerald-version/#comment-98"><time datetime="2018-05-24T13:25:15+00:00">May 24, 2018 at 1:25 pm</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>retrogames you add ds games they dident load for plz fix i like this site</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://playemulator.online/gba-games/pokemon-emerald-version/?replytocom=98#respond' data-commentid="98" data-postid="158" data-belowelement="div-comment-98" data-respondelement="respond" data-replyto="Reply to isaiah" aria-label='Reply to isaiah'>Reply</a></div>			</article><!-- .comment-body -->
+		<ol class="children">
+		<li id="comment-100" class="comment byuser comment-author-retrogames bypostauthor even depth-2">
+			<article id="div-comment-100" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/5898c9b201f21df57200ec28734bff81?s=32&#038;d=retro&#038;r=g' srcset='https://secure.gravatar.com/avatar/5898c9b201f21df57200ec28734bff81?s=64&#038;d=retro&#038;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' loading='lazy'/>						<b class="fn">retrogames</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://playemulator.online/gba-games/pokemon-emerald-version/#comment-100"><time datetime="2018-05-25T23:34:39+00:00">May 25, 2018 at 11:34 pm</time></a>					</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Hey,<br />
+can you please describe the issue you got?<br />
+Thanks for playing!</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://playemulator.online/gba-games/pokemon-emerald-version/?replytocom=100#respond' data-commentid="100" data-postid="158" data-belowelement="div-comment-100" data-respondelement="respond" data-replyto="Reply to retrogames" aria-label='Reply to retrogames'>Reply</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+        </ol><!-- .comment-list -->
+
+        	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/gba-games/pokemon-emerald-version/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://playemulator.online/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message" aria-hidden="true">Required fields are marked <span class="required" aria-hidden="true">*</span></span></p><p class="comment-form-comment"><label for="comment">Comment <span class="required" aria-hidden="true">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required" aria-hidden="true">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required" aria-hidden="true">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='158' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form>	</div><!-- #respond -->
+	
+</div><!-- #comments -->
+<div class="clear"></div>
+
+</div><!--/#gridwp-posts-wrapper -->
+
+
+
+
+</div>
+</div>
+</div><!-- /#gridwp-main-wrapper -->
+
+
+
+
+<div class="gridwp-sidebar-one-wrapper gridwp-sidebar-widget-areas clearfix" id="gridwp-sidebar-one-wrapper" itemscope="itemscope" itemtype="http://schema.org/WPSideBar" role="complementary">
+<div class="theiaStickySidebar">
+<div class="gridwp-sidebar-one-wrapper-inside clearfix">
+
+<div id="block-8" class="gridwp-side-widget gridwp-box widget widget_block"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4647802911128527"
+     crossorigin="anonymous"></script>
+<!-- banner -->
+<ins class="adsbygoogle"
+     style="display:block;background-color:transparent"
+     data-ad-client="ca-pub-4647802911128527"
+     data-ad-slot="3209723985"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div id="gridwp-tabbed-widget-id-3" class="gridwp-side-widget gridwp-box widget gridwp-tabbed-widget">
+
+<div class='gridwp-tabbed-wrapper'>
+
+<ul class='gridwp-tabbed-names'>
+<li><a href='#gridwp-tabbed-content-1'>Popular</a></li><li><a href='#gridwp-tabbed-content-2'>Recent</a></li><li><a href='#gridwp-tabbed-content-3'>Random</a></li></ul>
+
+<div class='gridwp-tabbed-content' id='gridwp-tabbed-content-1'>
+
+        <div class="gridwp-list-posts">
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/gba-games/pokemon-emerald-version/" title="Permanent Link to Pokemon Emerald Version"><img width="100" height="100" src="https://playemulator.online/wp-content/uploads/2018/02/pokemon-emerald-gba-e1550195056990.jpg" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Pokemon Emerald Version" srcset="https://playemulator.online/wp-content/uploads/2018/02/pokemon-emerald-gba-e1550195056990.jpg 299w, https://playemulator.online/wp-content/uploads/2018/02/pokemon-emerald-gba-e1550195056990-250x250.jpg 250w, https://playemulator.online/wp-content/uploads/2018/02/pokemon-emerald-gba-e1550195056990-150x150.jpg 150w, https://playemulator.online/wp-content/uploads/2018/02/pokemon-emerald-gba-e1550195056990-100x100.jpg 100w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/gba-games/pokemon-emerald-version/" rel="bookmark" title="Permanent Link to Pokemon Emerald Version">Pokemon Emerald Version</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/gba-games/pokemon-fire-red/" title="Permanent Link to Pokemon Fire Red"><img width="100" height="100" src="https://playemulator.online/wp-content/uploads/2018/02/pokemon-fire-red.jpg" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Pokemon Fire Red" srcset="https://playemulator.online/wp-content/uploads/2018/02/pokemon-fire-red.jpg 512w, https://playemulator.online/wp-content/uploads/2018/02/pokemon-fire-red-250x250.jpg 250w, https://playemulator.online/wp-content/uploads/2018/02/pokemon-fire-red-150x150.jpg 150w, https://playemulator.online/wp-content/uploads/2018/02/pokemon-fire-red-100x100.jpg 100w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/gba-games/pokemon-fire-red/" rel="bookmark" title="Permanent Link to Pokemon Fire Red">Pokemon Fire Red</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/popular-games/pokemon-yellow-version-gameboy/" title="Permanent Link to Pokemon &#8211; Yellow (Pikachu) Version GBC"><img width="100" height="100" src="https://playemulator.online/wp-content/uploads/2018/03/pokemon_yellow_cover_art_by_comunello76-d4xfrr5.jpg" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Pokemon &#8211; Yellow (Pikachu) Version GBC" srcset="https://playemulator.online/wp-content/uploads/2018/03/pokemon_yellow_cover_art_by_comunello76-d4xfrr5.jpg 898w, https://playemulator.online/wp-content/uploads/2018/03/pokemon_yellow_cover_art_by_comunello76-d4xfrr5-252x250.jpg 252w, https://playemulator.online/wp-content/uploads/2018/03/pokemon_yellow_cover_art_by_comunello76-d4xfrr5-150x150.jpg 150w, https://playemulator.online/wp-content/uploads/2018/03/pokemon_yellow_cover_art_by_comunello76-d4xfrr5-768x761.jpg 768w, https://playemulator.online/wp-content/uploads/2018/03/pokemon_yellow_cover_art_by_comunello76-d4xfrr5-100x100.jpg 100w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/popular-games/pokemon-yellow-version-gameboy/" rel="bookmark" title="Permanent Link to Pokemon &#8211; Yellow (Pikachu) Version GBC">Pokemon &#8211; Yellow (Pikachu) Version GBC</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/popular-games/pokemon-stadium-n64/" title="Permanent Link to Pokemon Stadium N64"><img width="100" height="69" src="https://playemulator.online/wp-content/uploads/2018/03/pokemon-stadium-nintendo-64.jpg.jpg" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Pokemon Stadium N64" srcset="https://playemulator.online/wp-content/uploads/2018/03/pokemon-stadium-nintendo-64.jpg.jpg 436w, https://playemulator.online/wp-content/uploads/2018/03/pokemon-stadium-nintendo-64.jpg-300x206.jpg 300w, https://playemulator.online/wp-content/uploads/2018/03/pokemon-stadium-nintendo-64.jpg-150x103.jpg 150w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/popular-games/pokemon-stadium-n64/" rel="bookmark" title="Permanent Link to Pokemon Stadium N64">Pokemon Stadium N64</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/popular-games/mortal-kombat-4-n64/" title="Permanent Link to Mortal Kombat 4 N64"><img width="100" height="75" src="https://playemulator.online/wp-content/uploads/2018/03/Mortal-Kombat-4.jpg" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Mortal Kombat 4 N64" srcset="https://playemulator.online/wp-content/uploads/2018/03/Mortal-Kombat-4.jpg 640w, https://playemulator.online/wp-content/uploads/2018/03/Mortal-Kombat-4-300x225.jpg 300w, https://playemulator.online/wp-content/uploads/2018/03/Mortal-Kombat-4-150x113.jpg 150w, https://playemulator.online/wp-content/uploads/2018/03/Mortal-Kombat-4-480x360.jpg 480w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/popular-games/mortal-kombat-4-n64/" rel="bookmark" title="Permanent Link to Mortal Kombat 4 N64">Mortal Kombat 4 N64</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                </div>
+
+        </div>
+
+<div class='gridwp-tabbed-content' id='gridwp-tabbed-content-2'>
+
+        <div class="gridwp-list-posts">
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/uncategorized/hero-wars/" title="Permanent Link to Hero Wars"><img width="100" height="100" src="https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-19_011552350.png" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Hero Wars" srcset="https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-19_011552350.png 512w, https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-19_011552350-250x250.png 250w, https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-19_011552350-150x150.png 150w, https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-19_011552350-75x75.png 75w, https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-19_011552350-128x128.png 128w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/uncategorized/hero-wars/" rel="bookmark" title="Permanent Link to Hero Wars">Hero Wars</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/uncategorized/crossout/" title="Permanent Link to Crossout"><img width="100" height="100" src="https://playemulator.online/wp-content/uploads/2022/08/crossout-100x100.jpg" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Crossout" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/uncategorized/crossout/" rel="bookmark" title="Permanent Link to Crossout">Crossout</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/uncategorized/raid-shadow-of-legends/" title="Permanent Link to Raid Shadow of Legends"><img width="100" height="98" src="https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-18_185526277-e1660841924166.png" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Raid Shadow of Legends" srcset="https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-18_185526277-e1660841924166.png 672w, https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-18_185526277-e1660841924166-256x250.png 256w, https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-18_185526277-e1660841924166-150x146.png 150w, https://playemulator.online/wp-content/uploads/2022/08/image_2022-08-18_185526277-e1660841924166-75x75.png 75w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/uncategorized/raid-shadow-of-legends/" rel="bookmark" title="Permanent Link to Raid Shadow of Legends">Raid Shadow of Legends</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/playstation-ps1/legacy-of-kain-soul-reaver-psx/" title="Permanent Link to Legacy of Kain: Soul Reaver PSX"><img width="100" height="100" src="https://playemulator.online/wp-content/uploads/2020/06/Legacy_Of_Kain-_Soul_Reaver_Cover1-100x100.jpg" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Legacy of Kain: Soul Reaver PSX" srcset="https://playemulator.online/wp-content/uploads/2020/06/Legacy_Of_Kain-_Soul_Reaver_Cover1-100x100.jpg 100w, https://playemulator.online/wp-content/uploads/2020/06/Legacy_Of_Kain-_Soul_Reaver_Cover1-250x250.jpg 250w, https://playemulator.online/wp-content/uploads/2020/06/Legacy_Of_Kain-_Soul_Reaver_Cover1-150x150.jpg 150w, https://playemulator.online/wp-content/uploads/2020/06/Legacy_Of_Kain-_Soul_Reaver_Cover1.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/playstation-ps1/legacy-of-kain-soul-reaver-psx/" rel="bookmark" title="Permanent Link to Legacy of Kain: Soul Reaver PSX">Legacy of Kain: Soul Reaver PSX</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/nes/zombie-nation-nes/" title="Permanent Link to Zombie Nation NES"><img width="73" height="100" src="https://playemulator.online/wp-content/uploads/2019/07/Zombienation1.jpg" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Zombie Nation NES" srcset="https://playemulator.online/wp-content/uploads/2019/07/Zombienation1.jpg 200w, https://playemulator.online/wp-content/uploads/2019/07/Zombienation1-182x250.jpg 182w, https://playemulator.online/wp-content/uploads/2019/07/Zombienation1-109x150.jpg 109w" sizes="(max-width: 73px) 100vw, 73px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/nes/zombie-nation-nes/" rel="bookmark" title="Permanent Link to Zombie Nation NES">Zombie Nation NES</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                </div>
+
+        </div>
+
+<div class='gridwp-tabbed-content' id='gridwp-tabbed-content-3'>
+
+        <div class="gridwp-list-posts">
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/nes/kiwi-kraze-nes/" title="Permanent Link to Kiwi Kraze NES"><img width="70" height="100" src="https://playemulator.online/wp-content/uploads/2019/12/kiwi-kraze-nes.jpg" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Kiwi Kraze NES" srcset="https://playemulator.online/wp-content/uploads/2019/12/kiwi-kraze-nes.jpg 640w, https://playemulator.online/wp-content/uploads/2019/12/kiwi-kraze-nes-174x250.jpg 174w, https://playemulator.online/wp-content/uploads/2019/12/kiwi-kraze-nes-105x150.jpg 105w" sizes="(max-width: 70px) 100vw, 70px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/nes/kiwi-kraze-nes/" rel="bookmark" title="Permanent Link to Kiwi Kraze NES">Kiwi Kraze NES</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/playstation-ps1/xenocracy-psx/" title="Permanent Link to Xenocracy PSX"><img width="100" height="75" src="https://playemulator.online/wp-content/uploads/2019/06/hqdefault.jpg" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Xenocracy PSX" srcset="https://playemulator.online/wp-content/uploads/2019/06/hqdefault.jpg 480w, https://playemulator.online/wp-content/uploads/2019/06/hqdefault-300x225.jpg 300w, https://playemulator.online/wp-content/uploads/2019/06/hqdefault-150x113.jpg 150w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/playstation-ps1/xenocracy-psx/" rel="bookmark" title="Permanent Link to Xenocracy PSX">Xenocracy PSX</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/playstation-ps1/rc-revenge-psx/" title="Permanent Link to Rc Revenge PSX"><img width="100" height="98" src="https://playemulator.online/wp-content/uploads/2019/06/37452-rcrevenge5bu5d-1-105040.jpg" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Rc Revenge PSX" srcset="https://playemulator.online/wp-content/uploads/2019/06/37452-rcrevenge5bu5d-1-105040.jpg 1398w, https://playemulator.online/wp-content/uploads/2019/06/37452-rcrevenge5bu5d-1-105040-254x250.jpg 254w, https://playemulator.online/wp-content/uploads/2019/06/37452-rcrevenge5bu5d-1-105040-1024x1008.jpg 1024w, https://playemulator.online/wp-content/uploads/2019/06/37452-rcrevenge5bu5d-1-105040-150x148.jpg 150w, https://playemulator.online/wp-content/uploads/2019/06/37452-rcrevenge5bu5d-1-105040-768x756.jpg 768w, https://playemulator.online/wp-content/uploads/2019/06/37452-rcrevenge5bu5d-1-105040-1188x1169.jpg 1188w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/playstation-ps1/rc-revenge-psx/" rel="bookmark" title="Permanent Link to Rc Revenge PSX">Rc Revenge PSX</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/nes/castelian-nes/" title="Permanent Link to Castelian NES"><img width="71" height="100" src="https://playemulator.online/wp-content/uploads/2019/12/castelian-nes.jpg" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Castelian NES" srcset="https://playemulator.online/wp-content/uploads/2019/12/castelian-nes.jpg 213w, https://playemulator.online/wp-content/uploads/2019/12/castelian-nes-178x250.jpg 178w, https://playemulator.online/wp-content/uploads/2019/12/castelian-nes-107x150.jpg 107w" sizes="(max-width: 71px) 100vw, 71px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/nes/castelian-nes/" rel="bookmark" title="Permanent Link to Castelian NES">Castelian NES</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                <div class="gridwp-list-post">
+                        <div class="gridwp-list-post-thumbnail">
+                            <a href="https://playemulator.online/playstation-ps1/trickshot-psx/" title="Permanent Link to Trickshot PSX"><img width="100" height="91" src="https://playemulator.online/wp-content/uploads/2019/06/trickshot.jpg" class="gridwp-list-post-img wp-post-image" alt="" loading="lazy" title="Trickshot PSX" srcset="https://playemulator.online/wp-content/uploads/2019/06/trickshot.jpg 274w, https://playemulator.online/wp-content/uploads/2019/06/trickshot-150x136.jpg 150w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+                        </div>
+                        <div class="gridwp-list-post-title"><a href="https://playemulator.online/playstation-ps1/trickshot-psx/" rel="bookmark" title="Permanent Link to Trickshot PSX">Trickshot PSX</a></div>
+            <div class="gridwp-list-post-footer">
+                                                </div>
+                    </div>
+                </div>
+
+        </div>
+
+</div>
+
+    </div><div id="block-12" class="gridwp-side-widget gridwp-box widget widget_block"><p><iframe loading="lazy" width="285" height="250" frameborder="0" scrolling="no" align="center" src="//server.cpmstar.com/view.aspx?poolid=80884&amp;rnd=12345"></iframe></p></div><div id="block-10" class="gridwp-side-widget gridwp-box widget widget_block"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4647802911128527"
+     crossorigin="anonymous"></script>
+<!-- banner -->
+<ins class="adsbygoogle"
+     style="display:block;background-color:transparent"
+     data-ad-client="ca-pub-4647802911128527"
+     data-ad-slot="3209723985"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div>
+</div>
+</div><!-- /#gridwp-sidebar-one-wrapper-->
+
+
+
+</div><!--/#gridwp-content-wrapper -->
+</div><!--/#gridwp-wrapper -->
+</div>
+
+<div class="gridwp-outer-wrapper">
+
+<div class="gridwp-bottom-wrapper-outer clearfix">
+<div class="gridwp-featured-posts-area gridwp-bottom-wrapper clearfix">
+
+
+
+</div>
+</div>
+
+</div>
+
+<div class='clearfix' id='gridwp-footer-blocks' itemscope='itemscope' itemtype='http://schema.org/WPFooter' role='contentinfo'>
+<div class='gridwp-container clearfix'>
+<div class="gridwp-outer-wrapper">
+
+<div class='gridwp-footer-block-1'>
+<div id="block-6" class="gridwp-footer-widget widget widget_block"><ul class="wp-block-page-list"><li class="wp-block-pages-list__item"><a class="wp-block-pages-list__item__link" href="https://playemulator.online/about-us/">About Us</a></li><li class="wp-block-pages-list__item"><a class="wp-block-pages-list__item__link" href="https://playemulator.online/cookie-policy/">Cookie policy</a></li><li class="wp-block-pages-list__item"><a class="wp-block-pages-list__item__link" href="https://playemulator.online/home/">Home</a></li><li class="wp-block-pages-list__item"><a class="wp-block-pages-list__item__link" href="https://playemulator.online/legal-dmca/">Legal / DMCA</a></li><li class="wp-block-pages-list__item"><a class="wp-block-pages-list__item__link" href="https://playemulator.online/privacy-policy/">Privacy Policy</a></li><li class="wp-block-pages-list__item"><a class="wp-block-pages-list__item__link" href="https://playemulator.online/privacy-settings-page/">Privacy Settings Page</a></li><li class="wp-block-pages-list__item"><a class="wp-block-pages-list__item__link" href="https://playemulator.online/terms-conditions/">Terms &amp; Conditions</a></li><li class="wp-block-pages-list__item"><a class="wp-block-pages-list__item__link" href="https://playemulator.online/welcome-to-retro-games-center/">Welcome to Retro Games Center</a></li></ul></div></div>
+
+<div class='gridwp-footer-block-2'>
+<div id="text-35" class="gridwp-footer-widget widget widget_text"><h2 class="gridwp-widget-title"><span>Let Us Know</span></h2>			<div class="textwidget"><p>If you have a game request, please feel free to tell us. We&#8217;ll do our best to add your requested game(s). If you also have any wishes or suggessions, we are always open to your ideas and needs.</p>
+<p>&nbsp;</p>
+<p>All graphics, games, and other multimedia are copyrighted to their respective owners and authors.</p>
+<p>&nbsp;</p>
+<p>HAPPY ONLINE RETRO GAMING AND THANKS FOR PLAYING!!!</p>
+</div>
+		</div><div id="text-21" class="gridwp-footer-widget widget widget_text">			<div class="textwidget"></div>
+		</div></div>
+
+<div class='gridwp-footer-block-3'>
+<div id="text-37" class="gridwp-footer-widget widget widget_text"><h2 class="gridwp-widget-title"><span>About Us</span></h2>			<div class="textwidget"><p><strong>PlayEmulator.Online is your best online retro gaming place to play all your favorite consoles on your web browser</strong>.</p>
+<p>We are the <strong>retro gamers</strong> like you and our project is dedicated to all retro game lovers…</p>
+<p>Now you can play<strong> <a href="https://www.playemulator.online/category/snes-games/?customize_changeset_uuid=8432faf2-7b1c-4755-8bcd-a0e237288a98&amp;customize_autosaved=on&amp;customize_theme=clean-gallery-pro&amp;customize_messenger_channel=preview-0">Super Nintendo (Snes)</a>,<a href="https://www.playemulator.online/category/gameboy-color-gbc/?customize_changeset_uuid=8432faf2-7b1c-4755-8bcd-a0e237288a98&amp;customize_autosaved=on&amp;customize_theme=clean-gallery-pro&amp;customize_messenger_channel=preview-0"> Gameboy / Color</a> </strong>and <strong><a href="https://www.playemulator.online/category/gba-games/?customize_changeset_uuid=8432faf2-7b1c-4755-8bcd-a0e237288a98&amp;customize_autosaved=on&amp;customize_theme=clean-gallery-pro&amp;customize_messenger_channel=preview-0">Gameboy Advance (GBA)</a>, <a href="https://www.playemulator.online/category/nintendo-64/?customize_changeset_uuid=8432faf2-7b1c-4755-8bcd-a0e237288a98&amp;customize_autosaved=on&amp;customize_theme=clean-gallery-pro&amp;customize_messenger_channel=preview-0">Nintendo 64 (N64)</a>,<a class="customize-unpreviewable" href="http://ndsgames.online/"> Nintendo DS (NDS)</a>, <a href="https://www.playemulator.online/category/sega-genesis-roms/?customize_changeset_uuid=8432faf2-7b1c-4755-8bcd-a0e237288a98&amp;customize_autosaved=on&amp;customize_theme=clean-gallery-pro&amp;customize_messenger_channel=preview-0">Sega Genesis</a>  </strong>and <strong><a href="https://www.playemulator.online/category/mame-games/?customize_changeset_uuid=8432faf2-7b1c-4755-8bcd-a0e237288a98&amp;customize_autosaved=on&amp;customize_theme=clean-gallery-pro&amp;customize_messenger_channel=preview-0">MAME</a></strong> games with our online emulator. You’re playing a game and need to go but want to save your game? It’s not a problem. Our online emulator can give you the save and load options. So you will never lose your games and continue to play your game soon.</p>
+</div>
+		</div><div id="text-24" class="gridwp-footer-widget widget widget_text">			<div class="textwidget"><p>If you have a game request, please feel free to tell us. We&#8217;ll do our best to add your requested game(s). If you also have any wishes or suggessions, we are always open to your ideas and needs.</p>
+</div>
+		</div></div>
+
+<div class='gridwp-footer-block-4'>
+<div id="text-36" class="gridwp-footer-widget widget widget_text">			<div class="textwidget"><p><a href="https://www.playemulator.online">PlayEmulator.online</a> is the best choice to play best of <a href="https://www.playemulator.online/category/snes-games/">Snes</a>, Nes, <a href="https://www.playemulator.online/category/gba-games/">GBA</a>, <a href="http://www.ndsgames.online">NDS</a>, <a href="https://www.playemulator.online/category/mame-games/">Mame</a>, CPS and <a href="https://www.playemulator.online/category/sega-genesis-roms/">Sega Genesis</a> Games with online emulator without downloading any roms or emulators. Our goal is to provide you the best retro gaming experince on your browser. Now you can save your games and load whenever you want.</p>
+<p>&nbsp;</p>
+<p><a href="https://www.playemulator.online">PlayEmulator.Online</a> is the place to play retro games online. If you want to download any roms or emulator, you&#8217;ll find nothing. You dont already need anything to download. That&#8217;s why we are here to make you play all the best of retro games online.</p>
+<p>All graphics, games, and other multimedia are copyrighted to their respective owners and authors.</p>
+<p>HAPPY ONLINE RETRO GAMING AND THANKS FOR PLAYING!!!</p>
+</div>
+		</div></div>
+
+</div>
+</div><!--/#gridwp-footer-blocks-->
+</div>
+
+<div class='clearfix' id='gridwp-footer'>
+<div class='gridwp-foot-wrap gridwp-container'>
+<div class="gridwp-outer-wrapper">
+  <p class='gridwp-copyright'>Copyright &copy; 2022 PlayEmulator Online</p>
+</div>
+</div><!--/#gridwp-footer -->
+</div>
+
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.</br><div class="wt-cli-ccpa-element"> <a style="color:#333333" class="wt-cli-ccpa-opt-out">Do not sell my personal information</a>.</div></div><div class="cli-bar-btn_container"><a role='button' class="cli_settings_button" style="margin:0px 10px 0px 5px">Cookie settings</a><a role='button' data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn">ACCEPT</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Close</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Show more" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+															<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+								</div>
+								<span class="cli-necessary-caption">Always Enabled</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+								Non-necessary							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox"  data-id="checkbox-non-necessary" checked='checked' />
+									<label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Non-necessary</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="non-necessary">
+								<div class="wt-cli-cookie-description">
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all-->		<div id="amp-mobile-version-switcher" hidden>
+			<a rel="" href="https://playemulator.online/gba-games/pokemon-emerald-version/?amp=1">
+				Go to mobile version			</a>
+		</div>
+
+				<script type='text/javascript' src='https://playemulator.online/wp-content/themes/gridwp-pro/assets/js/jquery.fitvids.min.js' id='fitvids-js'></script>
+<script type='text/javascript' src='https://playemulator.online/wp-content/themes/gridwp-pro/assets/js/jquery.marquee.min.js' id='marquee-js'></script>
+<script type='text/javascript' src='https://playemulator.online/wp-content/themes/gridwp-pro/assets/js/ResizeSensor.min.js' id='ResizeSensor-js'></script>
+<script type='text/javascript' src='https://playemulator.online/wp-content/themes/gridwp-pro/assets/js/theia-sticky-sidebar.min.js' id='theia-sticky-sidebar-js'></script>
+<script type='text/javascript' id='gridwp-customjs-js-extra'>
+/* <![CDATA[ */
+var gridwp_ajax_object = {"ajaxurl":"https:\/\/playemulator.online\/wp-admin\/admin-ajax.php","sticky_menu":"1","sticky_menu_mobile":"","sticky_sidebar":"1","news_ticker":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://playemulator.online/wp-content/themes/gridwp-pro/assets/js/custom.js' id='gridwp-customjs-js'></script>
+<script type='text/javascript' src='https://playemulator.online/wp-includes/js/comment-reply.min.js?ver=6.0.3' id='comment-reply-js'></script>
+<script type='text/javascript' id='fifu-image-js-js-extra'>
+/* <![CDATA[ */
+var fifuImageVars = {"fifu_lazy":"","fifu_woo_lbox_enabled":"1","fifu_woo_zoom":"inline","fifu_is_product":"","fifu_is_flatsome_active":"","fifu_rest_url":"https:\/\/playemulator.online\/wp-json\/","fifu_nonce":"c29c8d3455"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://playemulator.online/wp-content/plugins/featured-image-from-url/includes/html/js/image.js?ver=4.1.5' id='fifu-image-js-js'></script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: playemulator.online @ 2022-12-01 18:33:39 by W3 Total Cache
+-->
